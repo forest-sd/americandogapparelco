@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://americandogapparelco.pages.dev/sitemap.xml
+Sitemap: https://americandogapparelco.com/sitemap.xml
